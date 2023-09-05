@@ -5,3 +5,5 @@
 2-path: adds :/action to $PATH output
 
 3-paths: counts the number of directories in the PATH by counting the number of : in between (translated : to \n then counted using grep -c \n)
+
+4-global_variables: printed using env, which prints enviromental variables by default if no parameters are entered
