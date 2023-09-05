@@ -11,3 +11,5 @@
 5-local_variables: prints all variables (local and enviromental) using set
 
 6-create_local_variable: creates a local variable called BEST with value School
+
+7-create_global_variable: creates a global variable called BEST with value School using export
