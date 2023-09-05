@@ -27,3 +27,5 @@
 13-print_float: prints a float number with 2 decimals then a new line using printf "%.2f\n" (var name)
 
 100-decimal_to_hexadecimal: turns decimal to hexadecimal using printf "%x\n"
+
+101-rot13: encrypts the message by translating the letters to different letters by a specific pattern
