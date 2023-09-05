@@ -13,3 +13,5 @@
 6-create_local_variable: creates a local variable called BEST with value School
 
 7-create_global_variable: creates a global variable called BEST with value School using export
+
+8-true_knowledge: adds 128 to the value of TRUEKNOWLEDGE and prints it using echo
