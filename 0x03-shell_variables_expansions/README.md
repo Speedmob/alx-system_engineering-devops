@@ -21,3 +21,5 @@
 10-love_exponent_breath: prints BREATH to the power of LOVE using **
 
 11-binary_to_decimal: converts binary to decimal using # (built-in)
+
+12-combinations: prints all possible combinations of two letters, except oo by first getting all possible combinations, then translating the spaces between them to new lines and printing anything other than oo using "grep -v"
