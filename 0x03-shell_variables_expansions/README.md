@@ -29,3 +29,5 @@
 100-decimal_to_hexadecimal: turns decimal to hexadecimal using printf "%x\n"
 
 101-rot13: encrypts the message by translating the letters to different letters by a specific pattern
+
+102-odd: prints odd lines by pasting even lines with the odd lines using paste -d with = as a delimiter then uses cut on the used delimiter to remove even lines
