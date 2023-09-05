@@ -31,3 +31,9 @@
 101-rot13: encrypts the message by translating the letters to different letters by a specific pattern
 
 102-odd: prints odd lines by pasting even lines with the odd lines using paste -d with = as a delimiter then uses cut on the used delimiter to remove even lines
+
+103-water_and_stir: Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
+	WATER is in base water
+	STIR is in base stir.
+	The result should be in base bestchol
