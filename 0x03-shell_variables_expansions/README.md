@@ -15,3 +15,5 @@
 7-create_global_variable: creates a global variable called BEST with value School using export
 
 8-true_knowledge: adds 128 to the value of TRUEKNOWLEDGE and prints it using echo
+
+9-divide_and_rule: Divides POWER by DIVIDE and prints the results using echo
