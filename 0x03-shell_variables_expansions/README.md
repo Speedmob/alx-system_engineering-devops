@@ -9,3 +9,5 @@
 4-global_variables: printed using env, which prints enviromental variables by default if no parameters are entered
 
 5-local_variables: prints all variables (local and enviromental) using set
+
+6-create_local_variable: creates a local variable called BEST with value School
