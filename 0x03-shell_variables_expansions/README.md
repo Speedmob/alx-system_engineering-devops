@@ -17,3 +17,5 @@
 8-true_knowledge: adds 128 to the value of TRUEKNOWLEDGE and prints it using echo
 
 9-divide_and_rule: Divides POWER by DIVIDE and prints the results using echo
+
+10-love_exponent_breath: prints BREATH to the power of LOVE using **
