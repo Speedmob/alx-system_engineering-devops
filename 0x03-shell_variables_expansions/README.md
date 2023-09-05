@@ -23,3 +23,5 @@
 11-binary_to_decimal: converts binary to decimal using # (built-in)
 
 12-combinations: prints all possible combinations of two letters, except oo by first getting all possible combinations, then translating the spaces between them to new lines and printing anything other than oo using "grep -v"
+
+13-print_float: prints a float number with 2 decimals then a new line using printf "%.2f\n" (var name)
