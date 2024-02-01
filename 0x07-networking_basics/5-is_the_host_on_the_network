@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# a Bash script that pings a server 5 times:
+
+ip=$1
+
+if [ $# -ne 0 ]
+then
+	ping -c 5 "$ip"
+else
+	echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
+fi
